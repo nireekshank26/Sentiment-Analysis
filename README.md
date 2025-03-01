@@ -17,4 +17,4 @@ Dataset: IMDB Movie Reviews
 
 Ensure IMDB Dataset.csv is in the same directory before running the script.
 
-[Download Screenshot PDF](assets/Screenshot.pdf)
+[View Screenshot PDF](assets/Screenshot.pdf)
